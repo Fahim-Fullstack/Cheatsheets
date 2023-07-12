@@ -111,19 +111,19 @@ git push -u origin main
 1. Sets the email you want attached to your commit transactions
 
    ```
-   $ git config --global user.email "[email address]"
+   git config --global user.email "[email address]"
    ```
 
 2. Sets the name you want attached to your commit transactions
 
    ```
-   $ git config --global user.name "[name]"
+   git config --global user.name "[name]"
    ```
 
 3. Enables helpful colorization of command line output
 
    ```
-   $ git config --global color.ui auto
+   git config --global color.ui auto
    ```
 
 
